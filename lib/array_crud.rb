@@ -25,7 +25,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   while index > 2 
-  
+  puts (array)
 end
 
 def retrieve_first_element_from_array(array)
